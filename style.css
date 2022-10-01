@@ -1,0 +1,59 @@
+body{
+	margin: auto;
+	padding: auto;
+}
+.row h1{
+	color: white;
+}
+h1{
+	color: white;
+}
+.card h2{
+	color: green;
+}
+ul{
+	margin-left: 200px;
+}
+li{
+	margin-right: 200px;
+}
+.card{
+	height: 300px;
+	width: 100px;
+	margin-top: 250px;
+}
+.card h1{
+	color: green;
+}
+.card2 img{
+	height: 150px;
+	width: 150px;
+}
+.card3 img{
+	height: 222px;
+}
+.card img{
+	height: 150px;
+}
+h3: hover{
+	font-family: fantasy;
+}
+.container.img{
+	margin: 300px;
+}
+
+
+
+footer{
+	background-color: blue;
+}
+ul{
+	list-style: none;
+}
+
+.social-links li{
+	color: white;
+}
+.col-4 p{
+	color: white;
+}
